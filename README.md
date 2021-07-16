@@ -1,3 +1,3 @@
 #Hello World!!!
 
-<img src="2.jpg">
+<img src="home.png">
